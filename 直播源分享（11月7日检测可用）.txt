@@ -1,4 +1,4 @@
-﻿香港频道,香港频道
+﻿香港频道,#genre#
 TVB华丽台,http://23.237.10.66:16410
 翡翠台,http://23.237.10.66:16106
 翡翠台[1920*1080][1920*1080],http://113.64.147.20:808/hls/67/index.m3u8
@@ -24,7 +24,7 @@ VIUTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct
 八度空间,http://51.79.82.208:16005
 天映频道,http://51.79.82.208:16024
 香港卫视HKS,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
-澳门频道,澳门频道
+澳门频道,#genre#
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -42,7 +42,7 @@ VIUTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct
 澳视体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8?zgangd
-台湾频道,台湾频道
+台湾频道,#genre#
 华视,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
 台视,http://23.237.10.66:16334
 台视,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
@@ -66,7 +66,7 @@ TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 華語電視,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 龙翔时代,http://120.84.96.66:808/hls/35/index.m3u8?blog.ntnas.top
 HBO,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-中国频道,中国频道
+中国频道,#genre#
 CCTV7[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225624/index.m3u8
 超级电影[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225623/index.m3u8
 超级电视剧[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225625/index.m3u8
@@ -211,7 +211,7 @@ CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910
 东南卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
 东南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
 东南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
-美国频道,美国频道
+美国频道,#genre#
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
 ABC News Live 3 (720p),https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
@@ -260,7 +260,7 @@ BabyTV (1080p),http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 Bahrain International (720p) [Not 24/7],https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 BalleBalle,http://176.227.202.68/tsstreamer/BalleBalleLDAI_SD.ts
 BalleBalle,http://78.129.218.6/tsstreamer/BalleBalleLDAI_SD.ts
-英国频道,英国频道
+英国频道,#genre#
 BBC One HD (540p),http://w4.12all.tv:4000/play/bbc1/index.m3u8
 BBC Persian (720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 BBC Two HD (720p),http://w4.12all.tv:4000/play/bbc2/index.m3u8
@@ -292,7 +292,7 @@ EDGEsport (1080p),https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 Eman Channel (576p),https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 ERT World (480p),http://wpso.com:1936/hls/wzra.m3u8
 Euro Indie Music Chart TV (360p),http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-澳洲频道,澳洲频道
+澳洲频道,#genre#
 Sky News Extra 1 (540p),https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 Sky News Extra 2 (540p) [Not 24/7],https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 Sky News Extra 3 (1080p),https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
@@ -300,7 +300,7 @@ ABC ME (720p),https://c.mjh.nz/101002210224
 ausbiz TV (720p) [Geo-blocked],https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 C31 Melbourne (240p),https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-日本频道,日本频道
+日本频道,#genre#
 NHK BS1 (720p),http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_720/playlist.m3u8
 NHK BSP (720p),http://cdn.us195.jpnettv.live:1935/jptv/bspremium_720/playlist.m3u8
 NHK E (480p) [Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
