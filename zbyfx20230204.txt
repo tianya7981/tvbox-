@@ -327,6 +327,8 @@ CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910
 东南卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
 东南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
 东南卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
+大湾区卫视,https://epg.pw/stream/fef2b0a1b538aec733fe12fd7ce2027a199d8f6f0f3a64753063d04777744b47.m3u8
+大湾区卫视,https://epg.pw/stream/255a4080ec98d7fdd51588ebc7d2c56a78e5e0cd46492f502e2cad43c7a28dc7.m3u8
 美国频道,#genre#
 30A Darcizzle Offshore,https://30a-tv.com/darcizzle.m3u8
 30A Investment Pitch,https://www.30a-tv.com/InvPit.m3u8
