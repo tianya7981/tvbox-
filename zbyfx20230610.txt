@@ -411,7 +411,7 @@ RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 香港有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
+翡翠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5934f385-c221-41fc-af36-81bc794e83f1.m3u8
 4K频道,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
