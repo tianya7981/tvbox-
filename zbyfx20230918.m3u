@@ -1,0 +1,2717 @@
+#EXTM3U
+#EXTINF:-1 group-title="澳门频道,#genre#",澳门莲花
+http://107.151.203.111:2209/135/hk.php?id=amlh
+#EXTINF:-1 group-title="台湾频道,#genre#",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",大立電视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",东森超视34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 group-title="台湾频道,#genre#",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",唯心電视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",唯心電视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",國會頻道1
+http://61.58.60.230:9319/live/123.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",世新綜合
+http://61.58.60.230:9319/live/49.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",生命電視台
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+#EXTINF:-1 group-title="台湾频道,#genre#",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="台湾频道,#genre#",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV1
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV1
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV10
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV13
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV13
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV14
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV15
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8CCTV1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV15
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV15
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV16
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV16
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV16
+http://111.20.40.164/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV16
+http://111.20.40.165/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV16
+http://111.20.40.168/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV16
+http://111.20.40.169/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV17
+http://223.151.51.27:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV-18高清
+https://vd3.bdstatic.com/mda-pe09yr9r30wbxc6f/720p/h264/1682924667761123043/mda-pe09yr9r30wbxc6f.mp4
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV2
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV3
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV3
+http://111.20.40.166/PLTV/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV3
+http://111.20.40.167/PLTV/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV3
+http://111.20.40.173/PLTV/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV4
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV4
+http://111.20.40.164/PLTV/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV4
+http://111.20.40.173/PLTV/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.160/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.162/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.163/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.164/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.165/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.166/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.167/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.168/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.169/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.172/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5
+http://111.20.40.173/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5+
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV5+
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV6
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV6
+http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV6
+http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV6
+http://111.20.40.172/PLTV/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV6
+http://111.20.40.173/PLTV/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV7
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV8
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV8
+http://111.20.40.166/PLTV/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV8
+http://111.20.40.167/PLTV/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV8
+http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV8
+http://111.20.40.173/PLTV/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV9
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV9
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV兵器科技
+http://111.20.40.162/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV兵器科技
+http://111.20.40.163/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV兵器科技
+http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV兵器科技
+http://111.20.40.171/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV第一剧场
+http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV第一剧场
+http://111.20.40.163/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV第一剧场
+http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV第一剧场
+http://111.20.40.171/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV电视指南
+http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV电视指南
+http://111.20.40.163/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV风云剧场
+http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV风云剧场
+http://111.20.40.163/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV风云剧场
+http://111.20.40.164/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV风云剧场
+http://111.20.40.165/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV风云音乐
+http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV风云音乐
+http://111.20.40.163/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV风云音乐
+http://111.20.40.164/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV风云音乐
+http://111.20.40.165/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV怀旧剧场
+http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV怀旧剧场
+http://111.20.40.163/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV怀旧剧场
+http://111.20.40.170/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV怀旧剧场
+http://111.20.40.171/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV女性时尚
+http://111.20.40.162/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV女性时尚
+http://111.20.40.163/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV女性时尚
+http://111.20.40.170/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV女性时尚
+http://111.20.40.171/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV世界地理
+http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV世界地理
+http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV世界地理
+http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV世界地理
+http://111.20.40.171/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV央视文化精品
+http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV央视文化精品
+http://111.20.40.166/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV央视文化精品
+http://111.20.40.167/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",CCTV中央文化精品
+http://111.20.40.165/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",浙江卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",延边卫视
+http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",西藏卫视
+http://111.20.40.160/PLTV/88888893/224/3221226212/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",西藏卫视
+http://111.20.40.172/PLTV/88888893/224/3221226212/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",西藏卫视
+http://111.20.40.173/PLTV/88888893/224/3221226212/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",深圳卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",陕西卫视
+http://111.20.40.171/PLTV/88888893/224/3221226322/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",陕西卫视
+http://111.20.40.172/PLTV/88888893/224/3221226388/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",陕西卫视
+http://111.20.40.172/PLTV/88888893/224/3221226389/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",陕西卫视
+http://111.20.40.172/PLTV/88888893/224/3221226390/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",南方卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",江苏卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",江苏卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
+#EXTINF:-1 group-title="中国频道,#genre#",湖南卫视
+http://223.151.51.27:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中国频道,#genre#",黑龙江卫视
+http://hls.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",黑龙江卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",河北卫视
+http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",广东卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+#EXTINF:-1 group-title="中国频道,#genre#",东方卫视
+http://live.cooltv.top/tv/bestv.php?id=22
+#EXTINF:-1 group-title="中国频道,#genre#",北京卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
+#EXTINF:-1 group-title="美国频道,#genre#",30A Darcizzle Offshore
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",30A Investment Pitch
+https://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",30A Sidewalks
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",30A The Beach Show
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",30A TV
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",3ABN Dare to Dream
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",3ABN French
+https://3abn-live.akamaized.net/hls/live/2010546-b/French/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",3ABN Kids Network
+https://3abn-live.akamaized.net/hls/live/2010550-b/Kids/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",3ABN Latino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",3ABN Praise Him Music Network
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC 2 Baton Rouge LA
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC 2 Baton Rouge LA
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 1
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 10
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 2
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 3
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 4
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 5
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 6
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 7
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 8
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News Live 9
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",AFV en Español
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",AFV
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Al Hurra
+https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",AL KARMA TV
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Aliento Vision
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Alkarma TV Australia
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Alkarma TV Family
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Alkarma TV Middle East
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Alkarma TV Praise
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Alkarma TV Talmaza)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Almagd TV Middle East
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",América TeVé (WJAN-CD1)
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",America\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s Test Kitchen
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Ameritrade [Not 24/7]
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Amga TV
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Architectural Digest
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",AWE
+http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",CTN (360p)
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Fun Roads (404p)
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Galicia TV América (720p)
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Galveston County TV (720p) [Not 24/7]
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Game Show Network East (720p) [Not 24/7]
+http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",GFN TV (720p) [Not 24/7]
+https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Glendale 11 AZ (360p)
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Global Christian Network America (GCN) (720p)
+http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",AlbUK TV (1080p) [Not 24/7]
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",AutoAllstars
+http://78.129.253.189/tsstreamer/AutoAllstarsLDAI_SD.ts
+#EXTINF:-1 group-title="美国频道,#genre#",AutoAllstars
+http://109.200.6.10/tsstreamer/AutoAllstarsLDAI_SD.ts
+#EXTINF:-1 group-title="美国频道,#genre#",AWE
+http://78.129.150.52/tsstreamer/AWELDAI_SD.ts
+#EXTINF:-1 group-title="美国频道,#genre#",AWE
+http://212.38.189.94/tsstreamer/AWELDAI_SD.ts
+#EXTINF:-1 group-title="美国频道,#genre#",Azerbaijan News TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",BabyTV (1080p)
+http://194.163.179.246/slovenci/djeciji/babytv.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",Bahrain International (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 group-title="美国频道,#genre#",BalleBalle
+http://176.227.202.68/tsstreamer/BalleBalleLDAI_SD.ts
+#EXTINF:-1 group-title="美国频道,#genre#",BalleBalle
+http://78.129.218.6/tsstreamer/BalleBalleLDAI_SD.ts
+#EXTINF:-1 group-title="日本频道,#genre#",MX Live
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",NHK world Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",NHK 華語
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",Shop Channel
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",Shop Channel
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",Shop Channel
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",Tokyo MX 1 (360p)
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1 group-title="日本频道,#genre#",ウェザーニュース
+https://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",凤凰香港
+http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",RTHK32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",RTHK32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",香港衛視文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",凤凰卫视中文台
+http://113.117.74.23:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",凤凰卫视资讯台
+http://113.117.74.23:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",凤凰卫视香港台
+http://113.117.74.23:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="香港频道,#genre#",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 group-title="香港频道,#genre#",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 group-title="香港频道,#genre#",明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="4K频道,#genre#",臻彩4K欧洲
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K频道,#genre#",4k记录欧洲
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K频道,#genre#",静态4K测试
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="4K频道,#genre#",欢笑剧场4KHLG小果源
+http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="4K频道,#genre#",斗鱼4K电影
+http://159.75.85.63:35455/douyu/9249162
+#EXTINF:-1 group-title="4K频道,#genre#",南国都市4k
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 group-title="4K频道,#genre#",苏州4K频道
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="4K频道,#genre#",斗鱼4K影院
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 group-title="海外频道,#genre#",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",PBS泰国(5G专线)
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",ANTV(5G专线)
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",ANTV(5G专线)
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",ONE(5G专线)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道,#genre#",亚洲新闻(5G专线)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",越南坚江频道(5G专线)
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",越南-CTV(5G专线)
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",ALTV泰国(5G专线)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",越南-VBSTV(5G专线)
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",Arirang(5G专线)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",THGL(5G专线)
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",BRT(5G专线)
+http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",HBTV(5G专线)
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",NhanDan(5G专线)
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",NhanDan(5G专线)
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",H?iPhòng+(5G专线)
+https://live.thhp.vn/hls/thpplus/index.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",民视新闻(5G)
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",东森新闻美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",华语电视2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",华语电视3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",俄罗斯GITV
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",中国环球电视
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 group-title="海外频道,#genre#",香港卫视
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",孝廉
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",香港电台普通话
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",唯心
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",唯心
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",面包
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",美国中文
+https://cdnts.sinovision.net/livestream.m3u8
+#EXTINF:-1 group-title="海外频道,#genre#",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",ABN HD
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Arirang 阿里郎3
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",CJ OnStyle+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",CJONSTYLE
+http://mytv.dothome.co.kr/ch/catv/91.php
+#EXTINF:-1 group-title="韩国频道,#genre#",CJONSTYLE+
+http://mytv.dothome.co.kr/ch/catv/92.php
+#EXTINF:-1 group-title="韩国频道,#genre#",CTS기독교TV
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS +1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS +2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 1
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS E
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS E
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 兒童頻道
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 兒童頻道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",EBS 兒童頻道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Gugak TV 國樂放送
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",JIBS SBS
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",KBC 광주방송 (SBS 光州)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS LIFE
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS WORLD
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",KBS WORLD
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Korea Economy TV
+https://allanf181.github.io/adaptive-streams/streams/kr/KoreaEconomyTV.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC every1 k-COPS
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=mbcevery1k-cops&channel_id=newid_054&apikey=b97c7a7d0c82424bb607e141ef215779&auth=dda4572e-
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 구해줘! 홈즈
+https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 大田
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 나혼자산다
+https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kg9gdipudll7l-prod/Channel_MBC_7.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 釜山
+http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 라디오스타
+https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n4zydfj68vgn1-prod/Channel_MBC_9.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 綜藝頻道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 蔚山
+https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 무한도전
+https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 麗水
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 신비한 TV 서프라이즈
+https://d1acfb5b13qsdr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-he05vyj1kinia-prod/Channel_MBC_4.m3u8?ads.device_did=%7BPSID
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 어쩌다 발견한 하루
+https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 왔다! 장보리
+https://d386gkzosr3i38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fm713l3q6ryzr-prod/Channel_MBC_8.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 지붕뚫고 하이킥
+https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC 해를 품은 달
+https://d13bfaug2ipt96.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ujgh90ynpdw-prod/Channel_MBC_2.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",MBC+
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=mbc+&channel_id=newid_055&apikey=b97c7a7d0c82424bb607e141ef215779&auth=48d483bb-2b2272fe-dc2d0f8a-
+#EXTINF:-1 group-title="韩国频道,#genre#",MBN
+http://mytv.dothome.co.kr/ch/catv/54.php
+#EXTINF:-1 group-title="韩国频道,#genre#",MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",MTN
+http://183.110.27.87/mtnlive/720/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",NBS 韓國農業廣播
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",NBS 韓國農業廣播
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",RedBull
+http://mytv.dothome.co.kr/ch/catv/61.php
+#EXTINF:-1 group-title="韩国频道,#genre#",SBS 강심장
+https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",SBS 닥터스
+https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",SBS 清州放送
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",SBS 런닝맨
+https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",SBS 스페셜
+https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",SBS 집사부일체
+https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",SBS 패밀리가 떴다
+https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韩国频道,#genre#",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",TJB 대전방송 (SBS 大田)
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",TJBI SBS
+http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Tomato
+http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",Top Filme - Rakuten TV
+https://54a2e96c06f84c56b7e137eeabe22edf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-at_TopFree/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",tvN THE K2
+https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",tvN 꽃보다할배
+https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",tvN 나의 아저씨
+https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",tvN 도깨비
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",tvN 라켓보이즈
+https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",tvN 마인
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",tvN 멜랑꼴리아
+https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",tvN 철인왕후
+https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",YTN와이티엔
+http://mytv.dothome.co.kr/ch/catv/261.php
+#EXTINF:-1 group-title="韩国频道,#genre#",국방國防TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",小本生意
+http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",韓國新聞
+http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",韓國新聞
+http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",韓國職業廣播
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",신박한 벙커
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=tbsflex&channel_id=newid_023&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b5261d98-6282a756-e1877a85-
+#EXTINF:-1 group-title="韩国频道,#genre#",연합뉴스TV
+https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",중화TV 곡주부인
+https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",중화TV 장가행
+https://d27qq4sc9v1h7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxfwub7u3zl2a-ssai-prd/328d5389_0716_4717_979f_372036a0d322/hls/playlist.m3u8?
+#EXTINF:-1 group-title="韩国频道,#genre#",프란체스카
+https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+#EXTINF:-1 group-title="韩国频道,#genre#",현대홈쇼핑
+https://livestreaming.hyundaihmall.com/cjpstp/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道,#genre#",현대홈쇼핑+Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国DJ Soda Remix 2021 电音
+https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团001
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团002
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团003
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团004
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团005
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团006
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团007
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团008
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团009
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团010
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团011
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团012
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团013
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团014
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团015
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团016
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团017
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团018
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团019
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国歌团020
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★021
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★022
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★023
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★024
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★025
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★026
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★027
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★028
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★029
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★030
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★031
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★032
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★033
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★034
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★035
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★036
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★037
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★038
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★039
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★040
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★041
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★042
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★043
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★044
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★045
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★046
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★047
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★048
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★049
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★050
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★051
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★052
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★053
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★054
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★055
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★056
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★057
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★058
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★059
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★060
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★061
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★062
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★063
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★064
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★065
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★066
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★067
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★068
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★069
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★070
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★071
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★072
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★074
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★075
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★076
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★077
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★078
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★079
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★080
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★081
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★082
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★083
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★084
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★085
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★086
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★087
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★088
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★089
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★090
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★091
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239999177791.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★092
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★093
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★094
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★095
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★096
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★097
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★098
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★099
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★100
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★101
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★102
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★103
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★104
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★105
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★106
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★107
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★108
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★109
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★110
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★111
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★112
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★113
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★114
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★115
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★116
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★117
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★118
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★119
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★120
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★121
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★122
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★123
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★125
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★126
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★127
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★128
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★129
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★130
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★131
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★132
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★133
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★134
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★135
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★136
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★137
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★138
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★139
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★140
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★141
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★142
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★143
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★145
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★146
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★147
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★148
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★149
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★150
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★151
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★152
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",歌团★153
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍02
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍03
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍04
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍05
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍06
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍07
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍08
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍09
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍10
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍11
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍12
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍13
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍14
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍15
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍16
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍17
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍18
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍19
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍20
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍21
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍22
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍23
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍24
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍25
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍26
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍27
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍28
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍29
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍30
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍31
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍32
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍33
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍34
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍35
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍36
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍37
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍38
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍40
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+#EXTINF:-1 group-title="女团太妍,#genre#",韩国太妍41
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+#EXTINF:-1 group-title="新闻频道,#genre#",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",民視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",民視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",民視新聞 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",民視新聞 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",民視新聞 HD
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",台視新聞 HD
+https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",台視新聞 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",台視新聞 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",台視新聞 HD
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",BBC America
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",CNA亞洲新聞 International
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",CNA亞洲新聞 Singapore
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",CNA亞洲新聞
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",CNA亞洲新聞
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",CNA亞洲新聞
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",CNN
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",DW 德國之聲
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",Euronews
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",Euronews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",FOX NEWS
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",KBS WORLD
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",NBC NEWS NOW
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",NBC NEWS
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",News max
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",NHK world Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",VOA
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",半島新聞台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",半島電視台
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",半島電視台
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="新闻频道,#genre#",半島電視台
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",中國-精編直播(景點輪播)
+http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",中國-精編直播(景點輪播)
+http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",中國-精編直播(景點輪播)
+http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-飛來石
+http://gcksc.v.kcdnvip.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-飛來石
+http://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-飛來石
+http://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-飛來石
+http://gctxyc.liveplay.myqcloud.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-光明頂
+http://gcksc.v.kcdnvip.com/gc/hsgmd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-光明頂
+http://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-光明頂
+http://gctxyc.liveplay.myqcloud.com/gc/hsgmd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-臥雲峰
+http://gcksc.v.kcdnvip.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-臥雲峰
+http://gccncc.v.wscdns.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-臥雲峰
+http://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黃山-臥雲峰
+http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽蕪湖-三公山旅遊風景區
+http://gcksc.v.kcdnvip.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽蕪湖-三公山旅遊風景區
+http://gccncc.v.wscdns.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽蕪湖-三公山旅遊風景區
+http://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽蕪湖-三公山旅遊風景區
+http://gctxyc.liveplay.myqcloud.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-蘆村遠眺
+http://gcksc.v.kcdnvip.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-蘆村遠眺
+http://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-蘆村遠眺
+http://gctxyc.liveplay.myqcloud.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-西遞半山亭
+http://gcksc.v.kcdnvip.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-西遞半山亭
+http://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-西遞半山亭
+http://gctxyc.liveplay.myqcloud.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-西遞牌坊
+http://gcksc.v.kcdnvip.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-西遞牌坊
+http://gccncc.v.wscdns.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-西遞牌坊
+http://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣-西遞牌坊
+http://gctxyc.liveplay.myqcloud.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-海洋館
+http://gcksc.v.kcdnvip.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-海洋館
+http://gccncc.v.wscdns.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-海洋館
+http://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-海洋館
+http://gctxyc.liveplay.myqcloud.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-懷柔黃花城水長城
+http://gcksc.v.kcdnvip.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-懷柔黃花城水長城
+http://gccncc.v.wscdns.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-懷柔黃花城水長城
+http://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-懷柔黃花城水長城
+http://gctxyc.liveplay.myqcloud.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-鳥巢水立方
+http://gcksc.v.kcdnvip.com/gc/glxs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-鳥巢水立方
+http://gccncc.v.wscdns.com/gc/glxs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-鳥巢水立方
+http://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-鳥巢水立方
+http://gctxyc.liveplay.myqcloud.com/gc/glxs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-香山
+http://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-新首鋼大橋
+http://gcksc.v.kcdnvip.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-新首鋼大橋
+http://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",北京-新首鋼大橋
+http://gctxyc.liveplay.myqcloud.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",甘肅-敦煌鳴沙山
+http://gcksc.v.kcdnvip.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",甘肅-敦煌鳴沙山
+http://gccncc.v.wscdns.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",甘肅-敦煌鳴沙山
+http://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",甘肅-敦煌鳴沙山
+http://gctxyc.liveplay.myqcloud.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",甘肅-嘉峪關
+http://gcksc.v.kcdnvip.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",甘肅-嘉峪關
+http://gccncc.v.wscdns.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",甘肅-嘉峪關
+http://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",甘肅-嘉峪關
+http://gctxyc.liveplay.myqcloud.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東廣州-珠江
+http://gcksc.v.kcdnvip.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東廣州-珠江
+http://gccncc.v.wscdns.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東廣州-珠江
+http://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東廣州-珠江
+http://gctxyc.liveplay.myqcloud.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東江門-都斛鎮
+http://gcksc.v.kcdnvip.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東江門-都斛鎮
+http://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東江門-都斛鎮
+http://gctxyc.liveplay.myqcloud.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東韶關-新豐馬頭鎮
+http://gcksc.v.kcdnvip.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東韶關-新豐馬頭鎮
+http://gccncc.v.wscdns.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東韶關-新豐馬頭鎮
+http://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東韶關-新豐馬頭鎮
+http://gctxyc.liveplay.myqcloud.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東深圳-福田中央商務區
+http://gcksc.v.kcdnvip.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東深圳-福田中央商務區
+http://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東深圳-福田中央商務區
+http://gctxyc.liveplay.myqcloud.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東陽江-海陵島
+http://gcksc.v.kcdnvip.com/gc/sgns01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東陽江-海陵島
+http://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東陽江-海陵島
+http://gctxyc.liveplay.myqcloud.com/gc/sgns01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東珠海-港珠澳大橋
+http://gcksc.v.kcdnvip.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東珠海-港珠澳大橋
+http://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東珠海-港珠澳大橋
+http://gctxyc.liveplay.myqcloud.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣西桂林-象鼻山
+http://gcksc.v.kcdnvip.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣西桂林-象鼻山
+http://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣西桂林-象鼻山
+http://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣西桂林-象鼻山
+http://gctxyc.liveplay.myqcloud.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州安順-黃果樹瀑布
+http://gccncc.v.wscdns.com/gc/nxspthhpl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州安順-黃果樹瀑布
+http://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州安順-黃果樹瀑布
+http://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州畢節-織金洞常上明珠
+http://gcksc.v.kcdnvip.com/gc/jsh02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州畢節-織金洞常上明珠
+http://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州畢節-織金洞常上明珠
+http://gctxyc.liveplay.myqcloud.com/gc/jsh02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州都山-毛尖鎮高寨水庫茶山
+http://gcksc.v.kcdnvip.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州都山-毛尖鎮高寨水庫茶山
+http://gccncc.v.wscdns.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州都山-毛尖鎮高寨水庫茶山
+http://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州都山-毛尖鎮高寨水庫茶山
+http://gctxyc.liveplay.myqcloud.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-白雲區泉湖公園
+http://gcksc.v.kcdnvip.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-白雲區泉湖公園
+http://gccncc.v.wscdns.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-白雲區泉湖公園
+http://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-白雲區泉湖公園
+http://gctxyc.liveplay.myqcloud.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-花果園濕地公園
+http://gcksc.v.kcdnvip.com/gc/hnttlhzjd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-白雲區泉湖公園
+http://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-白雲區泉湖公園
+http://gctxyc.liveplay.myqcloud.com/gc/hnttlhzjd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-十裡畫廊
+http://gcksc.v.kcdnvip.com/gc/wysyxdhp_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-白雲區泉湖公園
+http://gccncc.v.wscdns.com/gc/wysyxdhp_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-白雲區泉湖公園
+http://gcalic.v.myalicdn.com/gc/wysyxdhp_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州貴陽-白雲區泉湖公園
+http://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州六盤水-鐘山區梅花山
+http://gcksc.v.kcdnvip.com/gc/hkylxs02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州六盤水-鐘山區梅花山
+http://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州六盤水-鐘山區梅花山
+http://gctxyc.liveplay.myqcloud.com/gc/hkylxs02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州盤州市-新民梯田
+http://gcksc.v.kcdnvip.com/gc/hkts11_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州盤州市-新民梯田
+http://gccncc.v.wscdns.com/gc/hkts11_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州盤州市-新民梯田
+http://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州盤州市-新民梯田
+http://gctxyc.liveplay.myqcloud.com/gc/hkts11_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州息烽縣-南山田園
+http://gcksc.v.kcdnvip.com/gc/jhs02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州息烽縣-南山田園
+http://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州息烽縣-南山田園
+http://gctxyc.liveplay.myqcloud.com/gc/jhs02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州遵義-赤水瀑布
+http://gcksc.v.kcdnvip.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州遵義-赤水瀑布
+http://gccncc.v.wscdns.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州遵義-赤水瀑布
+http://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州遵義-赤水瀑布
+http://gctxyc.liveplay.myqcloud.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州遵義-芶壩紅色文化旅遊景區
+http://gcksc.v.kcdnvip.com/gc/xdfjq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州遵義-芶壩紅色文化旅遊景區
+http://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州遵義-芶壩紅色文化旅遊景區
+http://gctxyc.liveplay.myqcloud.com/gc/xdfjq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河北秦皇島-五峰山
+http://gcksc.v.kcdnvip.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河北秦皇島-五峰山
+http://gccncc.v.wscdns.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河北秦皇島-五峰山
+http://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河北秦皇島-五峰山
+http://gctxyc.liveplay.myqcloud.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南-熱帶雨林國家公園
+http://gcksc.v.kcdnvip.com/gc/hkts08_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南-熱帶雨林國家公園
+http://gccncc.v.wscdns.com/gc/hkts08_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南-熱帶雨林國家公園
+http://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南-熱帶雨林國家公園
+http://gctxyc.liveplay.myqcloud.com/gc/hkts08_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南-三亞灣
+http://gcksc.v.kcdnvip.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南-三亞灣
+http://gccncc.v.wscdns.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南-三亞灣
+http://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南-三亞灣
+http://gctxyc.liveplay.myqcloud.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南文昌-龍樓鎮
+http://gcalic.v.myalicdn.com/gc/hkts05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南文昌-銅鼓嶺
+http://gcksc.v.kcdnvip.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南文昌-銅鼓嶺
+http://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",海南文昌-銅鼓嶺
+http://gctxyc.liveplay.myqcloud.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南焦作-雲臺山紅石峽
+http://gcksc.v.kcdnvip.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南焦作-雲臺山紅石峽
+http://gccncc.v.wscdns.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南焦作-雲臺山紅石峽
+http://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南焦作-雲臺山紅石峽
+http://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南平頂山-葉縣
+http://gcksc.v.kcdnvip.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南平頂山-葉縣
+http://gccncc.v.wscdns.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南平頂山-葉縣
+http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南平頂山-葉縣
+http://gctxyc.liveplay.myqcloud.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南信陽-汪橋鎮思鄉穀
+http://gcksc.v.kcdnvip.com/gc/nxsptdmgy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南信陽-汪橋鎮思鄉穀
+http://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南信陽-汪橋鎮思鄉穀
+http://gctxyc.liveplay.myqcloud.com/gc/nxsptdmgy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南信陽-王店鄉示範基地
+http://gcksc.v.kcdnvip.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南信陽-王店鄉示範基地
+http://gccncc.v.wscdns.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南信陽-王店鄉示範基地
+http://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南信陽-王店鄉示範基地
+http://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南鄭州-千璽廣場
+http://gcksc.v.kcdnvip.com/gc/ytszyf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南鄭州-千璽廣場
+http://gccncc.v.wscdns.com/gc/ytszyf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南鄭州-千璽廣場
+http://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南鄭州-千璽廣場
+http://gctxyc.liveplay.myqcloud.com/gc/ytszyf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黑龍江哈爾濱-霽虹橋
+http://gcksc.v.kcdnvip.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黑龍江哈爾濱-霽虹橋
+http://gccncc.v.wscdns.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黑龍江哈爾濱-霽虹橋
+http://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黑龍江哈爾濱-霽虹橋
+http://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黑龍江哈爾濱-松花江
+http://gcksc.v.kcdnvip.com/gc/xysrf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黑龍江哈爾濱-松花江
+http://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黑龍江哈爾濱-松花江
+http://gctxyc.liveplay.myqcloud.com/gc/xysrf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北恩施-佛寶山景區
+http://gcksc.v.kcdnvip.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北恩施-佛寶山景區
+http://gccncc.v.wscdns.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北恩施-佛寶山景區
+http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北恩施-佛寶山景區
+http://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北恩施-建始高坪花硒穀
+http://gcksc.v.kcdnvip.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北恩施-建始高坪花硒穀
+http://gccncc.v.wscdns.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北恩施-建始高坪花硒穀
+http://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北恩施-建始高坪花硒穀
+http://gctxyc.liveplay.myqcloud.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北黃石-大冶青龍山
+http://gcksc.v.kcdnvip.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北黃石-大冶青龍山
+http://gccncc.v.wscdns.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北黃石-大冶青龍山
+http://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北黃石-大冶青龍山
+http://gctxyc.liveplay.myqcloud.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北黃石-陽新縣蓮花湖濕地
+http://gcksc.v.kcdnvip.com/gc/xjtcdgs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北黃石-陽新縣蓮花湖濕地
+http://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北黃石-陽新縣蓮花湖濕地
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdgs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北十堰-丹江口碧水連天
+http://gcksc.v.kcdnvip.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北十堰-丹江口碧水連天
+http://gccncc.v.wscdns.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北十堰-丹江口碧水連天
+http://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北十堰-丹江口碧水連天
+http://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北隨州-隨縣峰山茶園
+http://gcksc.v.kcdnvip.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北隨州-隨縣峰山茶園
+http://gccncc.v.wscdns.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北隨州-隨縣峰山茶園
+http://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北隨州-隨縣峰山茶園
+http://gctxyc.liveplay.myqcloud.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北天門-多祥鎮天門工業園
+http://gcksc.v.kcdnvip.com/gc/hkylxs07_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北天門-多祥鎮天門工業園
+http://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北天門-多祥鎮天門工業園
+http://gctxyc.liveplay.myqcloud.com/gc/hkylxs07_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北宜昌-夷陵區
+http://gcksc.v.kcdnvip.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北宜昌-夷陵區
+http://gccncc.v.wscdns.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北宜昌-夷陵區
+http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北宜昌-夷陵區
+http://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北宜昌-長江清江交匯處
+http://gcksc.v.kcdnvip.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北宜昌-長江清江交匯處
+http://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北宜昌-長江清江交匯處
+http://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖北宜昌-長江清江交匯處
+http://gctxyc.liveplay.myqcloud.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南彬州-沙洲瑤族村
+http://gcksc.v.kcdnvip.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南彬州-沙洲瑤族村
+http://gccncc.v.wscdns.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南彬州-沙洲瑤族村
+http://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南彬州-沙洲瑤族村
+http://gctxyc.liveplay.myqcloud.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南湘西州-鳳凰古城
+http://gcksc.v.kcdnvip.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南湘西州-鳳凰古城
+http://gccncc.v.wscdns.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南湘西州-鳳凰古城
+http://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南湘西州-鳳凰古城
+http://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-寶峰湖
+http://gcksc.v.kcdnvip.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-寶峰湖
+http://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-寶峰湖
+http://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-玻璃橋
+http://gcksc.v.kcdnvip.com/gc/hsxkssqdzrqj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-玻璃橋
+http://gccncc.v.wscdns.com/gc/hsxkssqdzrqj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-玻璃橋
+http://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-玻璃橋
+http://gctxyc.liveplay.myqcloud.com/gc/hsxkssqdzrqj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-將軍列隊
+http://gcksc.v.kcdnvip.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-將軍列隊
+http://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-將軍列隊
+http://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-天門山天門洞
+http://gcksc.v.kcdnvip.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-天門山天門洞
+http://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-天門山天門洞
+http://gctxyc.liveplay.myqcloud.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-天門山西線玻璃棧道
+http://gcksc.v.kcdnvip.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-天門山西線玻璃棧道
+http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-天門山西線玻璃棧道
+http://gctxyc.liveplay.myqcloud.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-武陵源黃石寨
+http://gcksc.v.kcdnvip.com/gc/szgk01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-武陵源黃石寨
+http://gccncc.v.wscdns.com/gc/szgk01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-武陵源黃石寨
+http://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界-武陵源黃石寨
+http://gctxyc.liveplay.myqcloud.com/gc/szgk01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",吉林四平-四平戰役紀念館
+http://gcksc.v.kcdnvip.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",吉林四平-四平戰役紀念館
+http://gccncc.v.wscdns.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",吉林四平-四平戰役紀念館
+http://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",吉林四平-四平戰役紀念館
+http://gctxyc.liveplay.myqcloud.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-梵音廣場
+http://gcksc.v.kcdnvip.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-梵音廣場
+http://gccncc.v.wscdns.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-梵音廣場
+http://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-梵音廣場
+http://gctxyc.liveplay.myqcloud.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-玄武湖
+http://gcksc.v.kcdnvip.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-玄武湖
+http://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-玄武湖
+http://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-玄武湖
+http://gctxyc.liveplay.myqcloud.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-玄武湖公園
+http://gcksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-玄武湖公園
+http://gccncc.v.wscdns.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-玄武湖公園
+http://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇南京-玄武湖公園
+http://gctxyc.liveplay.myqcloud.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇無錫-大劇院
+http://gcksc.v.kcdnvip.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇無錫-大劇院
+http://gccncc.v.wscdns.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇無錫-大劇院
+http://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇無錫-大劇院
+http://gctxyc.liveplay.myqcloud.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇無錫-惠山二茅峰望錫城
+http://gcksc.v.kcdnvip.com/gc/wysdhpcy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇無錫-惠山二茅峰望錫城
+http://gccncc.v.wscdns.com/gc/wysdhpcy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇無錫-惠山二茅峰望錫城
+http://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇無錫-惠山二茅峰望錫城
+http://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江西吉安-井岡山茅坪神山村
+http://gcksc.v.kcdnvip.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江西吉安-井岡山茅坪神山村
+http://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江西吉安-井岡山茅坪神山村
+http://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江西南昌-滕王閣
+http://gcksc.v.kcdnvip.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江西南昌-滕王閣
+http://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江西南昌-滕王閣
+http://gctxyc.liveplay.myqcloud.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧大連-老虎灘
+http://gcksc.v.kcdnvip.com/gc/hkts04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧大連-老虎灘
+http://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧大連-老虎灘
+http://gctxyc.liveplay.myqcloud.com/gc/hkts04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧撫順-雷鋒紀念館
+http://gcksc.v.kcdnvip.com/gc/zjjafdxfs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧撫順-雷鋒紀念館
+http://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧撫順-雷鋒紀念館
+http://gctxyc.liveplay.myqcloud.com/gc/zjjafdxfs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧瀋陽-渾河
+http://gcksc.v.kcdnvip.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧瀋陽-渾河
+http://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧瀋陽-渾河
+http://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",遼寧瀋陽-渾河
+http://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東東營-北宋鎮高家村
+http://gcksc.v.kcdnvip.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東東營-北宋鎮高家村
+http://gccncc.v.wscdns.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東東營-北宋鎮高家村
+http://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東東營-北宋鎮高家村
+http://gctxyc.liveplay.myqcloud.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-趵突泉
+http://gcksc.v.kcdnvip.com/gc/hnttdysjd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-趵突泉
+http://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-趵突泉
+http://gctxyc.liveplay.myqcloud.com/gc/hnttdysjd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-七星天文臺
+http://gcksc.v.kcdnvip.com/gc/hkylxs04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-七星天文臺
+http://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-七星天文臺
+http://gctxyc.liveplay.myqcloud.com/gc/hkylxs04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-章丘三澗溪村
+http://gcksc.v.kcdnvip.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-章丘三澗溪村
+http://gccncc.v.wscdns.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-章丘三澗溪村
+http://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟南-章丘三澗溪村
+http://gctxyc.liveplay.myqcloud.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟寧-嘉祥紙坊鎮
+http://gcksc.v.kcdnvip.com/gc/xjtchxpt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟寧-嘉祥紙坊鎮
+http://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東濟寧-嘉祥紙坊鎮
+http://gctxyc.liveplay.myqcloud.com/gc/xjtchxpt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東青島-艾山天文臺
+http://gcksc.v.kcdnvip.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東青島-艾山天文臺
+http://gccncc.v.wscdns.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東青島-艾山天文臺
+http://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東青島-艾山天文臺
+http://gctxyc.liveplay.myqcloud.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-大觀峰
+http://gcksc.v.kcdnvip.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-大觀峰
+http://gccncc.v.wscdns.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-大觀峰
+http://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-大觀峰
+http://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-泰山玉皇頂
+http://gcksc.v.kcdnvip.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-泰山玉皇頂
+http://gccncc.v.wscdns.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-泰山玉皇頂
+http://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-泰山玉皇頂
+http://gctxyc.liveplay.myqcloud.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-望人松
+http://gcksc.v.kcdnvip.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-望人松
+http://gccncc.v.wscdns.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-望人松
+http://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東泰山-望人松
+http://gctxyc.liveplay.myqcloud.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山西太原-汾河畔
+http://gcksc.v.kcdnvip.com/gc/pygc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山西太原-汾河畔
+http://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山西太原-汾河畔
+http://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山西太原-汾河畔
+http://gctxyc.liveplay.myqcloud.com/gc/pygc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山西運城-解州關帝廟
+http://gcksc.v.kcdnvip.com/gc/xjtcmys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山西運城-解州關帝廟
+http://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山西運城-解州關帝廟
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcmys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西漢中-鎮巴縣草壩景區
+http://gcksc.v.kcdnvip.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西漢中-鎮巴縣草壩景區
+http://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西漢中-鎮巴縣草壩景區
+http://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西漢中-鎮巴縣草壩景區
+http://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西商洛-丹鳳棣花古鎮
+http://gcksc.v.kcdnvip.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西商洛-丹鳳棣花古鎮
+http://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西商洛-丹鳳棣花古鎮
+http://gctxyc.liveplay.myqcloud.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西渭南-寶塔山
+http://gcksc.v.kcdnvip.com/gc/hkylxs08_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西渭南-寶塔山
+http://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西渭南-寶塔山
+http://gctxyc.liveplay.myqcloud.com/gc/hkylxs08_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西渭南-蒲城縣唐泰陵
+http://gcksc.v.kcdnvip.com/gc/sjzc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西渭南-蒲城縣唐泰陵
+http://gccncc.v.wscdns.com/gc/sjzc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西渭南-蒲城縣唐泰陵
+http://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西渭南-蒲城縣唐泰陵
+http://gctxyc.liveplay.myqcloud.com/gc/sjzc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西西安-南五臺山
+http://gcksc.v.kcdnvip.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西西安-南五臺山
+http://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西西安-南五臺山
+http://gctxyc.liveplay.myqcloud.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西延安-寶塔山
+http://gcksc.v.kcdnvip.com/gc/hsmbsh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西延安-寶塔山
+http://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西延安-寶塔山
+http://gctxyc.liveplay.myqcloud.com/gc/hsmbsh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西延安-壺口瀑布
+http://gcksc.v.kcdnvip.com/gc/ytsbjy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西延安-壺口瀑布
+http://gctxyc.liveplay.myqcloud.com/gc/ytsbjy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西榆林-綏德石魂廣場
+http://gcksc.v.kcdnvip.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西榆林-綏德石魂廣場
+http://gccncc.v.wscdns.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西榆林-綏德石魂廣場
+http://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西榆林-綏德石魂廣場
+http://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西榆林-楊家溝革命舊址
+http://gcksc.v.kcdnvip.com/gc/bgws7_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西榆林-楊家溝革命舊址
+http://gccncc.v.wscdns.com/gc/bgws7_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西榆林-楊家溝革命舊址
+http://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西榆林-楊家溝革命舊址
+http://gctxyc.liveplay.myqcloud.com/gc/bgws7_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",上海-黃浦江
+http://gcksc.v.kcdnvip.com/gc/jshhd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",上海-黃浦江
+http://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",上海-黃浦江
+http://gctxyc.liveplay.myqcloud.com/gc/jshhd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川阿貝-黃龍五彩池
+http://gcksc.v.kcdnvip.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川阿貝-黃龍五彩池
+http://gccncc.v.wscdns.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川阿貝-黃龍五彩池
+http://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川阿貝-黃龍五彩池
+http://gctxyc.liveplay.myqcloud.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-春熙路太古裡
+http://gcksc.v.kcdnvip.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-春熙路太古裡
+http://gccncc.v.wscdns.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-春熙路太古裡
+http://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-春熙路太古裡
+http://gctxyc.liveplay.myqcloud.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-東安湖體育公園
+http://gcksc.v.kcdnvip.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-東安湖體育公園
+http://gccncc.v.wscdns.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-東安湖體育公園
+http://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-東安湖體育公園
+http://gctxyc.liveplay.myqcloud.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-錦江
+http://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-天府雙塔
+http://gcksc.v.kcdnvip.com/gc/tms01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-天府雙塔
+http://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-天府雙塔
+http://gctxyc.liveplay.myqcloud.com/gc/tms01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-天府熊貓塔
+http://gcksc.v.kcdnvip.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-天府熊貓塔
+http://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川成都-天府熊貓塔
+http://gctxyc.liveplay.myqcloud.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-峨眉山金頂金殿
+http://gcksc.v.kcdnvip.com/gc/hkts10_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-峨眉山金頂金殿
+http://gccncc.v.wscdns.com/gc/hkts10_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-峨眉山金頂金殿
+http://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-峨眉山金頂金殿
+http://gctxyc.liveplay.myqcloud.com/gc/hkts10_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-峨眉山普賢菩薩
+http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-峨眉山雲海日出
+http://gcksc.v.kcdnvip.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-峨眉山雲海日出
+http://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-峨眉山雲海日出
+http://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-峨眉山雲海日出
+http://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-樂山大佛三江匯流
+http://gcksc.v.kcdnvip.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-樂山大佛三江匯流
+http://gccncc.v.wscdns.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-樂山大佛三江匯流
+http://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川樂山-樂山大佛三江匯流
+http://gctxyc.liveplay.myqcloud.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川梁山-邛海景區
+http://gcksc.v.kcdnvip.com/gc/xcqh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川梁山-邛海景區
+http://gccncc.v.wscdns.com/gc/xcqh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川梁山-邛海景區
+http://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川梁山-邛海景區
+http://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川汶川-映秀新城
+http://gcksc.v.kcdnvip.com/gc/wcyxxc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川汶川-映秀新城
+http://gccncc.v.wscdns.com/gc/wcyxxc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川汶川-映秀新城
+http://gcalic.v.myalicdn.com/gc/wcyxxc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川汶川-映秀新城
+http://gctxyc.liveplay.myqcloud.com/gc/wcyxxc01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆阜康-天山天池
+http://gcksc.v.kcdnvip.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆阜康-天山天池
+http://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆阜康-天山天池
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆天山-馬牙山
+http://gcksc.v.kcdnvip.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆天山-馬牙山
+http://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆天山-馬牙山
+http://gctxyc.liveplay.myqcloud.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆天山天池-燈杆山
+http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆天山天池-燈杆山
+http://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆天山天池-燈杆山
+http://gctxyc.liveplay.myqcloud.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆伊利-那拉提空中草原
+http://gcksc.v.kcdnvip.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆伊利-那拉提空中草原
+http://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆伊利-那拉提空中草原
+http://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆伊利-那拉提空中草原
+http://gctxyc.liveplay.myqcloud.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南保山-中寨司莫拉佤族村
+http://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南紅河-建水雙龍橋
+http://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-千島湖
+http://gcksc.v.kcdnvip.com/gc/caqdh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-千島湖
+http://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-千島湖
+http://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-千島湖
+http://gctxyc.liveplay.myqcloud.com/gc/caqdh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-錢江新城
+http://gcksc.v.kcdnvip.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-錢江新城
+http://gccncc.v.wscdns.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-錢江新城
+http://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-錢江新城
+http://gctxyc.liveplay.myqcloud.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-錢塘江
+http://gcksc.v.kcdnvip.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-錢塘江
+http://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-錢塘江
+http://gctxyc.liveplay.myqcloud.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-雲棲小鎮
+http://gcksc.v.kcdnvip.com/gc/hnttpgsz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-雲棲小鎮
+http://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江杭州-雲棲小鎮
+http://gctxyc.liveplay.myqcloud.com/gc/hnttpgsz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江金華-東陽南馬鎮花園村
+http://gcksc.v.kcdnvip.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江金華-東陽南馬鎮花園村
+http://gccncc.v.wscdns.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江金華-東陽南馬鎮花園村
+http://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江金華-東陽南馬鎮花園村
+http://gctxyc.liveplay.myqcloud.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江寧波-北侖區白峰街
+http://gcksc.v.kcdnvip.com/gc/syns01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江寧波-北侖區白峰街
+http://gccncc.v.wscdns.com/gc/syns01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江寧波-北侖區白峰街
+http://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江寧波-北侖區白峰街
+http://gctxyc.liveplay.myqcloud.com/gc/syns01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江紹興-新昌城西夜江景
+http://gcksc.v.kcdnvip.com/gc/mdjxxmhjygjt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江紹興-新昌城西夜江景
+http://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江紹興-新昌城西夜江景
+http://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江紹興-新昌城西夜江景
+http://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjygjt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江紹興-新昌鼓山天姥閣
+http://gcksc.v.kcdnvip.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江紹興-新昌鼓山天姥閣
+http://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江紹興-新昌鼓山天姥閣
+http://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江紹興-新昌鼓山天姥閣
+http://gctxyc.liveplay.myqcloud.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江溫州-泰順縣廊橋文化園
+http://gcksc.v.kcdnvip.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江溫州-泰順縣廊橋文化園
+http://gccncc.v.wscdns.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江溫州-泰順縣廊橋文化園
+http://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江溫州-泰順縣廊橋文化園
+http://gctxyc.liveplay.myqcloud.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江溫州-雁蕩山
+http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江溫州-雁蕩山
+http://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江溫州-雁蕩山
+http://gctxyc.liveplay.myqcloud.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-藍印花布
+http://gcksc.v.kcdnvip.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-藍印花布
+http://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-藍印花布
+http://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-龍形田
+http://gcksc.v.kcdnvip.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-龍形田
+http://gccncc.v.wscdns.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-龍形田
+http://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-龍形田
+http://gctxyc.liveplay.myqcloud.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-全景
+http://gcksc.v.kcdnvip.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-全景
+http://gccncc.v.wscdns.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-全景
+http://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-全景
+http://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-西市河
+http://gcksc.v.kcdnvip.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-西市河
+http://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-西市河
+http://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江烏鎮-西市河
+http://gctxyc.liveplay.myqcloud.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江舟山-東極島
+http://gcksc.v.kcdnvip.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江舟山-東極島
+http://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",浙江舟山-東極島
+http://gctxyc.liveplay.myqcloud.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶石柱-中益鄉小學
+http://gcksc.v.kcdnvip.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶石柱-中益鄉小學
+http://gccncc.v.wscdns.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶石柱-中益鄉小學
+http://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶石柱-中益鄉小學
+http://gctxyc.liveplay.myqcloud.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山
+http://gcksc.v.kcdnvip.com/gc/hswlf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山
+http://gccncc.v.wscdns.com/gc/hswlf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山
+http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山
+http://gctxyc.liveplay.myqcloud.com/gc/hswlf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山長江
+http://gcksc.v.kcdnvip.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山長江
+http://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山長江
+http://gctxyc.liveplay.myqcloud.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山長江畫卷
+http://gcksc.v.kcdnvip.com/gc/qdls01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山長江畫卷
+http://gccncc.v.wscdns.com/gc/qdls01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山長江畫卷
+http://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",重慶-巫山長江畫卷
+http://gctxyc.liveplay.myqcloud.com/gc/qdls01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南大理崇聖寺三塔中景(重播)
+http://gcksc.v.kcdnvip.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南大理崇聖寺三塔中景(重播)
+http://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南大理崇聖寺三塔中景(重播)
+http://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",天文臺(重播)
+http://gcksc.v.kcdnvip.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",天文臺(重播)
+http://gccncc.v.wscdns.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",天文臺(重播)
+http://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",天文臺(重播)
+http://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南迪慶獨克宗古城
+http://gcksc.v.kcdnvip.com/gc/dhyyqyyq_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南迪慶獨克宗古城
+http://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南迪慶獨克宗古城
+http://gctxyc.liveplay.myqcloud.com/gc/dhyyqyyq_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣宏村南湖
+http://gcksc.v.kcdnvip.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣宏村南湖
+http://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣宏村南湖
+http://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",安徽黟縣宏村南湖
+http://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",八達嶺長城北十樓
+http://gcksc.v.kcdnvip.com/gc/bgwn10_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",八達嶺長城北十樓
+http://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",八達嶺長城北十樓
+http://gctxyc.liveplay.myqcloud.com/gc/bgwn10_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",八裡溝風景區桃花灣瀑布
+http://gcksc.v.kcdnvip.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",八裡溝風景區桃花灣瀑布
+http://gccncc.v.wscdns.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",八裡溝風景區桃花灣瀑布
+http://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",八裡溝風景區桃花灣瀑布
+http://gctxyc.liveplay.myqcloud.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",鳳凰古城東關門
+http://gcksc.v.kcdnvip.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",鳳凰古城東關門
+http://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",鳳凰古城東關門
+http://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",鳳凰古城東關門
+http://gctxyc.liveplay.myqcloud.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",福建武夷山玉女峰
+http://gcksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",福建武夷山玉女峰
+http://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",福建武夷山玉女峰
+http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣東-東莞中心廣場
+http://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州省興義市馬嶺河峽穀
+http://gcksc.v.kcdnvip.com/gc/xymlh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州省興義市馬嶺河峽穀
+http://gccncc.v.wscdns.com/gc/xymlh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州省興義市馬嶺河峽穀
+http://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",貴州省興義市馬嶺河峽穀
+http://gctxyc.liveplay.myqcloud.com/gc/xymlh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南鄭東新區千璽廣場
+http://gcksc.v.kcdnvip.com/gc/zdxq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南鄭東新區千璽廣場
+http://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",河南鄭東新區千璽廣場
+http://gctxyc.liveplay.myqcloud.com/gc/zdxq01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",恒山懸空寺全景
+http://gcksc.v.kcdnvip.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",恒山懸空寺全景
+http://gccncc.v.wscdns.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",恒山懸空寺全景
+http://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",恒山懸空寺全景
+http://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界迷魂台
+http://gcksc.v.kcdnvip.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界迷魂台
+http://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界迷魂台
+http://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界天門山雲夢仙頂
+http://gcksc.v.kcdnvip.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界天門山雲夢仙頂
+http://gccncc.v.wscdns.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界天門山雲夢仙頂
+http://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界天門山雲夢仙頂
+http://gctxyc.liveplay.myqcloud.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界禦筆峰
+http://gcksc.v.kcdnvip.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界禦筆峰
+http://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",湖南張家界禦筆峰
+http://gctxyc.liveplay.myqcloud.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",華山
+http://gcksc.v.kcdnvip.com/gc/hkhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",華山
+http://gccncc.v.wscdns.com/gc/hkhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",華山
+http://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",華山
+http://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃果樹銀鏈墜潭瀑布
+http://gcksc.v.kcdnvip.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃果樹銀鏈墜潭瀑布
+http://gccncc.v.wscdns.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃果樹銀鏈墜潭瀑布
+http://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃果樹銀鏈墜潭瀑布
+http://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃花城水長城04
+http://gcksc.v.kcdnvip.com/gc/wgw04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃花城水長城04
+http://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃花城水長城04
+http://gctxyc.liveplay.myqcloud.com/gc/wgw04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃龍
+http://gcksc.v.kcdnvip.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃龍
+http://gccncc.v.wscdns.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃龍
+http://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃龍
+http://gctxyc.liveplay.myqcloud.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山排雲亭
+http://gcksc.v.kcdnvip.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山排雲亭
+http://gccncc.v.wscdns.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山排雲亭
+http://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山排雲亭
+http://gctxyc.liveplay.myqcloud.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山平天矼
+http://gcksc.v.kcdnvip.com/gc/hsptgz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山平天矼
+http://gccncc.v.wscdns.com/gc/hsptgz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山平天矼
+http://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山平天矼
+http://gctxyc.liveplay.myqcloud.com/gc/hsptgz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山始信新道
+http://gcksc.v.kcdnvip.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山始信新道
+http://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山始信新道
+http://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",黃山始信新道
+http://gctxyc.liveplay.myqcloud.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇徐州雲龍湖風景區雲龍山觀景台南
+http://gcksc.v.kcdnvip.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇徐州雲龍湖風景區雲龍山觀景台南
+http://gccncc.v.wscdns.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇徐州雲龍湖風景區雲龍山觀景台南
+http://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇徐州雲龍湖風景區雲龍山觀景台南
+http://gctxyc.liveplay.myqcloud.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇徐州雲龍湖風景區雲龍山觀景台西
+http://gcksc.v.kcdnvip.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇徐州雲龍湖風景區雲龍山觀景台西
+http://gccncc.v.wscdns.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇徐州雲龍湖風景區雲龍山觀景台西
+http://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",江蘇徐州雲龍湖風景區雲龍山觀景台西
+http://gctxyc.liveplay.myqcloud.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",寧夏黃河大峽穀
+http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",寧夏黃河大峽穀
+http://gccncc.v.wscdns.com/gc/hhdxg01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",寧夏黃河大峽穀
+http://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",寧夏黃河大峽穀
+http://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",平山湖大峽谷石林
+http://gcksc.v.kcdnvip.com/gc/pshdxg02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",平山湖大峽谷石林
+http://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",平山湖大峽谷石林
+http://gcalic.v.myalicdn.com/gc/pshdxg02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",平山湖大峽谷石林
+http://gctxyc.liveplay.myqcloud.com/gc/pshdxg02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",山東-拱北日出
+http://gcalic.v.myalicdn.com/gc/hkts01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮01
+http://gcksc.v.kcdnvip.com/gc/zhhd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮01
+http://gccncc.v.wscdns.com/gc/zhhd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮01
+http://gcalic.v.myalicdn.com/gc/zhhd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮01
+http://gctxyc.liveplay.myqcloud.com/gc/zhhd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮03
+http://gcksc.v.kcdnvip.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮03
+http://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮03
+http://gctxyc.liveplay.myqcloud.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮04
+http://gcksc.v.kcdnvip.com/gc/zh04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮06
+http://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",陝西洋縣國寶朱鹮07
+http://gctxyc.liveplay.myqcloud.com/gc/zh04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",獅子山鳥瞰麗江古城
+http://gcksc.v.kcdnvip.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",獅子山鳥瞰麗江古城
+http://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",獅子山鳥瞰麗江古城
+http://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",獅子山鳥瞰麗江古城
+http://gctxyc.liveplay.myqcloud.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川峨眉山遠眺貢嘎雪山
+http://gcksc.v.kcdnvip.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川峨眉山遠眺貢嘎雪山
+http://gccncc.v.wscdns.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川峨眉山遠眺貢嘎雪山
+http://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川峨眉山遠眺貢嘎雪山
+http://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川四姑娘山隆珠措
+http://gcksc.v.kcdnvip.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川四姑娘山隆珠措
+http://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",四川四姑娘山隆珠措
+http://gctxyc.liveplay.myqcloud.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",嵩山少林寺廣場
+http://gcksc.v.kcdnvip.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",嵩山少林寺廣場
+http://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",嵩山少林寺廣場
+http://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",嵩山少林寺廣場
+http://gctxyc.liveplay.myqcloud.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",泰山龍潭水庫
+http://gcksc.v.kcdnvip.com/gc/hkts06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",泰山龍潭水庫
+http://gccncc.v.wscdns.com/gc/hkts06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",泰山龍潭水庫
+http://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",泰山龍潭水庫
+http://gctxyc.liveplay.myqcloud.com/gc/hkts06_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",天津-天津海河
+http://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣西玉林萬頃茶園
+http://gcksc.v.kcdnvip.com/gc/tyhjtynl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣西玉林萬頃茶園
+http://gccncc.v.wscdns.com/gc/tyhjtynl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣西玉林萬頃茶園
+http://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",廣西玉林萬頃茶園
+http://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",望鄉台
+http://gcksc.v.kcdnvip.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",望鄉台
+http://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",望鄉台
+http://gctxyc.liveplay.myqcloud.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",九寨溝諾日朗瀑布
+http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",九寨溝諾日朗瀑布
+http://gccncc.v.wscdns.com/gc/zsslsfwsgz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",九寨溝諾日朗瀑布
+http://gcalic.v.myalicdn.com/gc/zsslsfwsgz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",九寨溝諾日朗瀑布
+http://gctxyc.liveplay.myqcloud.com/gc/zsslsfwsgz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",婺源01
+http://gcksc.v.kcdnvip.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",婺源01
+http://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",婺源01
+http://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",洗身洞
+http://gcksc.v.kcdnvip.com/gc/hlxsd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",洗身洞
+http://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",洗身洞
+http://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",洗身洞
+http://gctxyc.liveplay.myqcloud.com/gc/hlxsd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆哪拉提景區
+http://gcksc.v.kcdnvip.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆哪拉提景區
+http://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",新疆哪拉提景區
+http://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南大理崇聖寺三塔湖面
+http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南大理崇聖寺三塔湖面
+http://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南大理崇聖寺三塔湖面
+http://gctxyc.liveplay.myqcloud.com/gc/dlst02_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南麗江高爾夫
+http://gcksc.v.kcdnvip.com/gc/hkylxs09_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南麗江高爾夫
+http://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南麗江高爾夫
+http://gctxyc.liveplay.myqcloud.com/gc/hkylxs09_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南麗江玉龍雪山
+http://gcksc.v.kcdnvip.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南麗江玉龍雪山
+http://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲南麗江玉龍雪山
+http://gctxyc.liveplay.myqcloud.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲臺山小寨溝
+http://gcksc.v.kcdnvip.com/gc/ytsxzg_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲臺山小寨溝
+http://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲臺山小寨溝
+http://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",雲臺山小寨溝
+http://gctxyc.liveplay.myqcloud.com/gc/ytsxzg_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",中央電視塔東
+http://gcksc.v.kcdnvip.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",中央電視塔東
+http://gccncc.v.wscdns.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",中央電視塔東
+http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",中央電視塔東
+http://gctxyc.liveplay.myqcloud.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",十八洞村
+http://gcksc.v.kcdnvip.com/gc/sbd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",十八洞村
+http://gctxyc.liveplay.myqcloud.com/gc/sbd01_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",泰山天街
+http://gcksc.v.kcdnvip.com/gc/taishan07_1/index.m3u8
+#EXTINF:-1 group-title="直播中国,#genre#",泰山天街
+http://gctxyc.liveplay.myqcloud.com/gc/taishan07_1/index.m3u8
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【RM-点播】点播！模式-24H欢乐不断
+http://epg.112114.xyz/douyu/131977
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【回首往事】仨房间画面同步显示
+http://epg.112114.xyz/douyu/1569773
+#EXTINF:-1 group-title="斗鱼频道,#genre#",大星与海绵方块
+http://epg.112114.xyz/douyu/3949681
+#EXTINF:-1 group-title="斗鱼频道,#genre#",美味！蟹黄堡
+http://epg.112114.xyz/douyu/8762358
+#EXTINF:-1 group-title="斗鱼频道,#genre#",海绵与大星直播间
+http://epg.112114.xyz/douyu/2250349
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【柯南】外表看似小孩，智慧却过于常人
+http://epg.112114.xyz/douyu/6484910
+#EXTINF:-1 group-title="斗鱼频道,#genre#",江户川柯南，是一个蒸蛋。
+http://epg.112114.xyz/douyu/5377297
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【三笠】根本不存在解不开的迷！
+http://epg.112114.xyz/douyu/7050342
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【Hunter】动漫热血老贼冒险
+http://epg.112114.xyz/douyu/6610883
+#EXTINF:-1 group-title="斗鱼频道,#genre#",少女与半妖
+http://epg.112114.xyz/douyu/7422897
+#EXTINF:-1 group-title="斗鱼频道,#genre#",宝可梦加油。感谢大家。
+http://epg.112114.xyz/douyu/9765742
+#EXTINF:-1 group-title="斗鱼频道,#genre#",星矢-燃烧吧我的小宇宙
+http://epg.112114.xyz/douyu/8458270
+#EXTINF:-1 group-title="斗鱼频道,#genre#",松开的手0.0
+http://epg.112114.xyz/douyu/10210568
+#EXTINF:-1 group-title="斗鱼频道,#genre#",浦饭幽游藏马飞影桑原
+http://epg.112114.xyz/douyu/9938431
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【童年往事】仨房间画面同步显示点播
+http://epg.112114.xyz/douyu/7256376
+#EXTINF:-1 group-title="斗鱼频道,#genre#",✨妖精的直播间✨
+http://epg.112114.xyz/douyu/5960746
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【天使点播】动漫直播间
+http://epg.112114.xyz/douyu/1487654
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【动漫】超燃怀旧经典
+http://epg.112114.xyz/douyu/1174353
+#EXTINF:-1 group-title="斗鱼频道,#genre#",✨动漫✨热血木叶忍者草帽路飞青春
+http://epg.112114.xyz/douyu/206858
+#EXTINF:-1 group-title="斗鱼频道,#genre#",#
+http://epg.112114.xyz/douyu/9429545
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【动画电影】童年回忆
+http://epg.112114.xyz/douyu/10395973
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【星星动画】童年热血搞笑爱情
+http://epg.112114.xyz/douyu/4369939
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【追忆】国语超清动画电影
+http://epg.112114.xyz/douyu/6449849
+#EXTINF:-1 group-title="斗鱼频道,#genre#",♥卡面来打♥
+http://epg.112114.xyz/douyu/1218414
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【动漫】24小时不间断动漫专场
+http://epg.112114.xyz/douyu/7493575
+#EXTINF:-1 group-title="斗鱼频道,#genre#",开心锤锤，开心快乐每一天！
+http://epg.112114.xyz/douyu/9018297
+#EXTINF:-1 group-title="斗鱼频道,#genre#",舔狗波比的幸福生活
+http://epg.112114.xyz/douyu/7620081
+#EXTINF:-1 group-title="斗鱼频道,#genre#",最好看的搞笑篮球动漫
+http://epg.112114.xyz/douyu/9401305
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【动漫】记录你的王者峡谷生活~
+http://epg.112114.xyz/douyu/9360149
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【小叮当】童年经典动画片
+http://epg.112114.xyz/douyu/9445279
+#EXTINF:-1 group-title="斗鱼频道,#genre#",中二日记搞笑日常更新
+http://epg.112114.xyz/douyu/9505575
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【经典动漫】9455567
+http://epg.112114.xyz/douyu/9455567
+#EXTINF:-1 group-title="斗鱼频道,#genre#",铁头与橘子（每周更新一起看霸总）
+http://epg.112114.xyz/douyu/9450942
+#EXTINF:-1 group-title="斗鱼频道,#genre#",笑出腹肌动漫0
+http://epg.112114.xyz/douyu/8380708
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【神剧】经典神剧
+http://epg.112114.xyz/douyu/3700024
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【贝爷MAX厅】科幻动作经典喜剧
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【贝爷影厅】经典科幻动作灾难巨兽
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【女神金】60帧极致蓝光刀刀陪看
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【西游】由爱故生怨，怨恨交缠，那又何苦
+http://epg.112114.xyz/douyu/9518204
+#EXTINF:-1 group-title="斗鱼频道,#genre#",狄仁杰：想听听我的故事吗
+http://epg.112114.xyz/douyu/674441
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【牛叔】N分钟带你看完大片
+http://epg.112114.xyz/douyu/2758565
+#EXTINF:-1 group-title="斗鱼频道,#genre#",【科幻Fans】精彩科幻影视，解说连连看
+http://epg.112114.xyz/douyu/3508304
+#EXTINF:-1 group-title="斗鱼频道,#genre#",最新奇幻电影解说-宇宙无敌韩三金
+http://epg.112114.xyz/douyu/3194372
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆1
+http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆2
+http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆3
+http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆4
+http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆5
+http://43.128.40.42:198/虎牙直播/huya.php?id=23740156
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆6
+http://43.128.40.42:198/虎牙直播/huya.php?id=23728660
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆8
+http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆9
+http://43.128.40.42:198/虎牙直播/huya.php?id=23734183
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆11
+http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆23
+http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆28
+http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆30
+http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆38
+http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆42
+http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆47
+http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆49
+http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆54
+http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆56
+http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
+#EXTINF:-1 group-title="埋堆堆,#genre#",埋堆堆61
+http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
+#EXTINF:-1 group-title="春晚合集,#genre#",2017年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1989年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2007年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1987年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1994年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1996年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1991年中央电视台春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2008年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2018年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2009年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2000年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1988年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1993年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2020年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2004年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2022年中央电视台春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1998年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2001年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1984年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1997年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1986年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2003年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2019年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2013年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2014年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1995年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2021年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2002年中央电视台春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1992年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",1999年中央电视合春节联欢晚会
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 group-title="春晚合集,#genre#",2023网络春晚
+https://txmov2.a.kwimgs.com/upic/2023/01/21/13/BMjAyMzAxMjExMzI0MjBfNzM5MzQzNzIyXzk0MTYwMDI4MzA4XzBfMw==_b_Ba3c2232fab2a28d92afcac6062ee1dce.mp4
